@@ -11,7 +11,7 @@ n = int(input(f"Введите число операндов: "))
 number = int(input(f"Введите число {count}: "))
 result_str = str(number)
 result = number
-while n > (1):
+while n > 1:
     n -= 1
     count += 1
     number = int(input(f"Введите число {count}: "))
