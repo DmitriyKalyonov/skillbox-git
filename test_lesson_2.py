@@ -1,3 +1,4 @@
+print('Прстой калькулятор\n')
 while True:
     command = input("Выберите операцию: ")
     if command in "+-*/":
